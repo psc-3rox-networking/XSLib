@@ -1,1 +1,1 @@
-# libXsight
+# XSLib
